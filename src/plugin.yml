@@ -1,0 +1,8 @@
+name: JAwake
+version: 1.0
+author: JobLessGod
+main: com.joblessgod.jawake.JAwake
+api-version: 1.14
+description: Dont Sleep!!!
+depend:
+  - PlugManX
