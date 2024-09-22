@@ -4,5 +4,23 @@ author: JobLessGod
 main: com.joblessgod.jawake.JAwake
 api-version: 1.14
 description: Dont Sleep!!!
-depend:
-  - PlugManX
+commands:
+  jreload:
+    description: Reload the Jawake plugin
+    permission: jawake.reload
+  jawakestop:
+    description: Stop the Jawake event
+    permission: jawake.stop
+  jawakestart:
+    description: Start the Jawake event
+    permission: jawake.start
+permissions:
+  jawake.reload:
+    description: Allows to reload the Jawake plugin
+    default: op
+  jawake.stop:
+    description: Allows to stop the Jawake event
+    default: op
+  jawake.start:
+    description: Allows to start the Jawake event
+    default: op
