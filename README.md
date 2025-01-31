@@ -19,5 +19,4 @@ When a player enters a bed, the following actions are triggered:
 Players simply need to enter a bed, and the effects will automatically trigger.
 
 ---
-
 Plugin developed by **JobLessGod**. Compatible with **Minecraft API 1.20.1**.
